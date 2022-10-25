@@ -1,0 +1,16 @@
+{
+  "name": "node-stack-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "volta": {
+    "node": "18.11.0",
+    "yarn": "3.2.4"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1"
+  }
+}
